@@ -8,7 +8,9 @@
     "puzzle3": "node Day2/puzzle3.js",
     "puzzle4": "node Day2/puzzle4.js",
     "puzzle5": "node Day3/puzzle5.js",
-    "puzzle6": "node Day3/puzzle6.js"
+    "puzzle6": "node Day3/puzzle6.js",
+    "puzzle7": "node Day4/puzzle7.js",
+    "puzzle8": "node Day4/puzzle8.js"
   },
   "dependencies": {
     "underscore": "^1.13.1"
