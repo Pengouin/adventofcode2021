@@ -12,7 +12,7 @@ let costs = [];
 for (let i = 0; i <= maxPosition; i++) {
     costs.push(_.reduce(crabs, function(memo, position) {
         let cost = Math.abs(i - position);
-        return memo + Math.abs(cost * (cost + 1) / 2);
+        return memo + (cost * (cost + 1) / 2);
     }, 0));
 }
 
