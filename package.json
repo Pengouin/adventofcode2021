@@ -3,18 +3,20 @@
   "version": "1.0.0",
   "description": "Advent of Code 2021 https://adventofcode.com/2021/",
   "scripts": {
-    "puzzle1": "node Day1/puzzle1.js",
-    "puzzle2": "node Day1/puzzle2.js",
-    "puzzle3": "node Day2/puzzle3.js",
-    "puzzle4": "node Day2/puzzle4.js",
-    "puzzle5": "node Day3/puzzle5.js",
-    "puzzle6": "node Day3/puzzle6.js",
-    "puzzle7": "node Day4/puzzle7.js",
-    "puzzle8": "node Day4/puzzle8.js",
-    "puzzle9": "node Day5/puzzle9.js",
-    "puzzle10": "node Day5/puzzle10.js",
-    "puzzle11": "node Day6/puzzle11.js",
-    "puzzle12": "node Day6/puzzle12.js"
+    "day1part1": "node Day1/puzzle1.js",
+    "day1part2": "node Day1/puzzle2.js",
+    "day2part1": "node Day2/puzzle3.js",
+    "day2part2": "node Day2/puzzle4.js",
+    "day3part1": "node Day3/puzzle5.js",
+    "day3part2": "node Day3/puzzle6.js",
+    "day4part1": "node Day4/puzzle7.js",
+    "day4part2": "node Day4/puzzle8.js",
+    "day5part1": "node Day5/puzzle9.js",
+    "day5part2": "node Day5/puzzle10.js",
+    "day6part1": "node Day6/puzzle11.js",
+    "day6part2": "node Day6/puzzle12.js",
+    "day7part1": "node Day7/part1.js",
+    "day7part2": "node Day7/part2.js"
   },
   "dependencies": {
     "underscore": "^1.13.1"
