@@ -18,7 +18,11 @@
     "day7part1": "node Day7/part1.js",
     "day7part2": "node Day7/part2.js",
     "day8part1": "node Day8/part1.js",
-    "day8part2": "node Day8/part2.js"
+    "day8part2": "node Day8/part2.js",
+    "day9part1": "node Day9/part1.js",
+    "day9part2": "node Day9/part2.js",
+    "day10part1": "node Day10/part1.js",
+    "day10part2": "node Day10/part2.js"
   },
   "dependencies": {
     "underscore": "^1.13.1"
