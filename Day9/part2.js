@@ -54,5 +54,3 @@ function getPoint(map, x, y) {
     else if(map[x][y] === undefined) return Infinity;
     else return parseInt(map[x][y]);
 }
-
-//console.log("Result :", riskSum);
