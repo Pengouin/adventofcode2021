@@ -26,7 +26,9 @@
     "day11part1": "node Day11/part1.js",
     "day11part2": "node Day11/part2.js",
     "day12part1": "node Day12/part1.js",
-    "day12part2": "node Day12/part2.js"
+    "day12part2": "node Day12/part2.js",
+    "day13part1": "node Day13/part1.js",
+    "day13part2": "node Day13/part2.js"
   },
   "dependencies": {
     "underscore": "^1.13.1"
